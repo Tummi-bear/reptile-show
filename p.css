@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+h1 {
+    border-top: 10px groove #13d195;
+    border-bottom: 10px groove #13d195 ;
+}
+img {
+    height: 500px;
+    border-right: 20px dashed #1acaad;
+    border-bottom: 20px dashed #1acaad;
+}
+main {
+    background-color: #b7ffb4;
+}
